@@ -1,0 +1,2 @@
+# WeGov
+eGovのXMLデータを元にWord文書を生成する
