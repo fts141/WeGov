@@ -1,5 +1,5 @@
 # MeGov
-eGov で配布されている法令 XML ファイルを Word（.docx）に変換する Python コード
+eGov で配布されている法令 XML ファイルを Word（.docx）ファイルに変換する Python コード
 ## 💬ストーリー
 法改正等の度に法令をコピーして体裁を整えたり…、日本中からこの面倒な作業を無くそうと思い作成しました。
 ## 🔍Word（.docx）ファイルの探し方
@@ -8,7 +8,7 @@ eGov で配布されている法令 XML ファイルを Word（.docx）に変換
 3. 目的の法令ファイルを選択する
 4. 「Download」を選択してダウンロードする
 ## 🙇免責事項
-- 図表の抽出など一部機能が実装されていません。コード更新次第、Word 文書も随時更新致します。
+- 図表の抽出など一部機能が実装されていません。コード更新次第、Word ファイルも随時更新致します。
 - 私は本業がプログラマーではなく、素人コードです。
 # Python コード
 ## 🐍使い方
@@ -18,4 +18,4 @@ python3 wegov.py eGovXML.xml exportDirectory
 - 📝python-docx
 # 関連レポジトリ
 - [MeGov](https://github.com/fts141/MeGov)  
-eGov で配布されている法令 XML ファイルを Markdown（.md）に変換する Python コード
+eGov で配布されている法令 XML ファイルを Markdown（.md）ファイルに変換する Python コード
