@@ -17,5 +17,5 @@ python3 wegov.py eGovXML.xml exportDirectory
 - 🥣BeautifulSoup4(bs4)
 - 📝python-docx
 # 関連レポジトリ
-- [MeGov](https://github.com/fts141/MeGov)
+- [MeGov](https://github.com/fts141/MeGov)  
 eGov で配布されている法令 XML ファイルを Markdown（.md）に変換する Python コード
